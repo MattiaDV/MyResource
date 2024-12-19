@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+}
+
+body, html {
+    background: black;
+}
+
+.container-page {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 500;
+    color: lightgreen;
+}
+
+table {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+table tr td {
+    min-width: 5vw;
+    max-width: 5vw;
+    border: 1px solid lightgreen;
+}

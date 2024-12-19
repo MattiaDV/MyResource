@@ -1,0 +1,11 @@
+{
+    "short_name": "MyResources",
+    "name": "MyResources, the perfect way to save money",
+    "icons": [{
+        "src": "../img/logo.png",
+        "type": "image/jpg",
+        "sizes": "192x192"
+    }],
+    "theme_color": "#000",
+    "display": "fullscreen"
+}
